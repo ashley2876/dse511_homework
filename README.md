@@ -1,3 +1,3 @@
 # dse511_homework
 
-This is my repository for DSE 511. I am making a *delicious* quiche at the moment.
+This is my repository for my DSE 511 homework. I'm demonstrating my *fancy* and not at all <sup>basic</sup> markdown skills.
